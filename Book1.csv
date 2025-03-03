@@ -2,4 +2,4 @@ HospitalName,DepartmentName,PhysicianName,PatientID,PatientName,DiagnosisName,Pr
 St. Mary,Cardiology,Dr. Smith,P001,Alice Lee,Atrial Fibrillation,Cardiac Ablation,
 St. Mary,Cardiology,Dr. Smith,P002,Bob Evans,Hypertension,N/A,
 St. Mary,Neurology,Dr. Chen,P003,Carol Jones,Migraine,MRI Scan,
-General Hosp.,Pediatrics,Dr. White,P004,David Kay,Asthma,Nebulizer Rx,
+General Hosp,Pediatrics,Dr. White,P004,David Kay,Asthma,Nebulizer Rx,
