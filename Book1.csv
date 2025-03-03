@@ -1,5 +1,6 @@
-HospitalName,DepartmentName,PhysicianName,PatientID,PatientName,DiagnosisName,ProcedureName,VisitDate
-St. Mary’s,Cardiology,Dr. Smith,P001,Alice Lee,Atrial Fibrillation,Cardiac Ablation,2/1/2025
-St. Mary’s,Cardiology,Dr. Smith,P002,Bob Evans,Hypertension,N/A,1/15/2025
-St. Mary’s,Neurology,Dr. Chen,P003,Carol Jones,Migraine,MRI Scan,2/5/2025
-General Hosp.,Pediatrics,Dr. White,P004,David Kay,Asthma,Nebulizer Rx,2/7/2025
+HospitalName,DepartmentName,PhysicianName,PatientID,PatientName,DiagnosisName,ProcedureName,
+St. Mary’s,Cardiology,Dr. Smith,P001,Alice Lee,Atrial Fibrillation,Cardiac Ablation,
+St. Mary’s,Cardiology,Dr. Smith,P002,Bob Evans,Hypertension,N/A,
+St. Mary’s,Neurology,Dr. Chen,P003,Carol Jones,Migraine,MRI Scan,
+General Hosp.,Pediatrics,Dr. White,P004,David Kay,Asthma,Nebulizer Rx,
+,,,,,,,\
