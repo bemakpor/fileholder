@@ -1,4 +1,4 @@
-DCES_ID,Service_Name,Status,System Name,System Acronym,Component,Sub-System,Total users,Type of IT/NSS,Has system completed a Tech Refresh?,Tech Refresh completion date,Is a Tech Refresh planned or In progress?,Authorization Policy,Authorization Status
+DCES_ID,Service_Name,Status,System_Name,System Acronym,Component,Sub-System,Total users,Type of IT/NSS,Has system completed a Tech Refresh?,Tech Refresh completion date,Is a Tech Refresh planned or In progress?,Authorization Policy,Authorization Status
 1,IT Infrastructure,Active,Hatity,HY,Laptops servers instance,Conn Dietrich and Bosco,63,IT(Not NSS),Yes,Mar-02-1997,Yes,DIACAP,ATO
 2,Database Adminstration,Active,Cardguard,CD,DataBase SQL MSSQL,Watsica-Corwin,50,IT(Not NSS),Yes,Mar-02-1998,Yes,ICD 503,ATO w/ Conditions
 3,Zoom,Active,Toughjoyfax,TX,Meeting ,Raynor LLC,1024,IT(Not NSS),Yes,Mar-02-1999,Yes,RMF,IATT
