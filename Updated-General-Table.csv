@@ -1,0 +1,37 @@
+DCES ID,Services,Status,System Name,System Acronym,Component,Sub-Organization,Total users,Type of IT/NSS,Has system completed a Tech Refresh?,Tech Refresh completion date,Is a Tech Refresh planned or In progress?,Tech Refresh start date,Authorization Policy,Authorization Status
+1,IT Infrastructure,Active,Hatity,HY,Laptops servers instance,Conn Dietrich and Bosco,63,IT(Not NSS),Yes,Yes,Yes,Mar-02-1997,DIACAP,ATO
+2,Database Adminstration,Active,Cardguard,CD,DataBase SQL MSSQL,Watsica-Corwin,50,IT(Not NSS),Yes,Yes,Yes,Mar-02-1998,ICD 503,ATO w/ Conditions
+3,Zoom,Active,Toughjoyfax,TX,Meeting ,Raynor LLC,1024,IT(Not NSS),Yes,Yes,Yes,Mar-02-1999,RMF,IATT
+4,Analytics,Active,Asoka,AA,Analysis,Spencer Weissnat and Quigley,133,IT(Not NSS),Yes,Yes,Yes,Mar-02-2000,DIACAP,ATO
+5,Computer Vision,Active,Biodex,BX,Network device drivers,Frami and Sons,69,IT(Not NSS),Yes,Yes,Yes,Mar-02-2001,ICD 504,ATO w/ Conditions
+6,Data processing,Active,Redhold,RD,data center ,"Gutmann, Jaskolski and Herzog",2380,IT(Not NSS),Yes,Yes,Yes,Mar-02-2002,RMF,IATT
+7,ETL,Active,Lotstring,LG,Laptops servers instance,Ohara Crona and Spencer,9,IT(Not NSS),Yes,Yes,Yes,Mar-02-2003,DIACAP,ATO
+8,Logistics,Inactive,Span,SN,Network device drivers,McDermott-Cremin,446,IT(Not NSS),Yes,Yes,Yes,Mar-02-2004,ICD 505,ATO w/ Conditions
+9,Help Desk,Active,Keylex,KX,data center ,King Mitchell and Douglas,92,IT(Not NSS),Yes,Yes,Yes,Mar-02-2005,RMF,IATT
+10,Patch Management,Active,Cardguard,CD,Laptops servers instance,Watsica-Corwin,22,IT(Not NSS),Yes,Yes,Yes,Mar-02-2006,DIACAP,ATO
+11,Batch Processing,Active,Hatity,HY,Laptops servers instance,Conn Dietrich and Bosco,,IT(Not NSS),Yes,Yes,Yes,Mar-02-2007,ICD 503,ATO w/ Conditions
+12,Satellite Service,Active,Cardguard,CD,Satellite Service,Watsica-Corwin,444,IT(Not NSS),Yes,Yes,Yes,Mar-02-2008,RMF,IATT
+13,Security Audit,Active,Hatity,HY,ATO scan,Conn Dietrich and Bosco,637,IT(Not NSS),Yes,Yes,Yes,Mar-02-2009,DIACAP,ATO
+14,Backend Development,Active,Cardguard,CD,Express NodeJS,Watsica-Corwin,100,IT(Not NSS),Yes,Yes,Yes,Mar-02-2010,ICD 504,ATO w/ Conditions
+15,Network Security ,Active,Hatity,HY,"VPN Network, device drivers","Conn, Dietrich and Bosco",542,IT(Not NSS),Yes,Yes,Yes,Mar-02-2011,RMF,IATT
+16,Communication,Active,Biodex,BX,Phone,Frami and Sons,892,IT(Not NSS),Yes,Yes,Yes,Mar-02-2012,DIACAP,ATO
+17,Help Desk,Active,Span,SN,Number and connection devices,McDermott-Cremin,1000,IT(Not NSS),Yes,Yes,Yes,Mar-02-2013,ICD 505,ATO w/ Conditions
+18,Computer Vision,Active,Biodex,BX,Cameras algorithms,Frami and Sons,400,IT(Not NSS),Yes,Yes,Yes,Mar-02-2014,RMF,IATT
+19,Data processing,Active,Keylex,KX,Data warehouse,Frami and Sons,865,IT(Not NSS),Yes,Yes,Yes,Mar-02-2015,DIACAP,ATO
+20,ETL,Active,Asoka,AA,Data warehouse,Spencer Weissnat and Quigley,421,IT(Not NSS),Yes,Yes,Yes,Mar-02-2016,ICD 503,ATO w/ Conditions
+21,Logistics,Active,Keylex,KX,Vehicle and records,King Mitchell and Douglas,321,IT(Not NSS),Yes,Yes,Yes,Mar-02-2017,RMF,IATT
+22,Help Desk,Active,Asoka,AA,Laptops servers instance,Spencer Weissnat and Quigley,123,IT(Not NSS),Yes,Yes,Yes,Mar-02-2018,DIACAP,ATO
+23,Patch Management,Active,Biodex,BX,Laptops servers instance,Frami and Sons,731,IT(Not NSS),Yes,Yes,Yes,Mar-02-2019,ICD 504,ATO w/ Conditions
+24,Network Engineering,Active,Asoka,AA,Network device drivers,Spencer Weissnat and Quigley,913,IT(Not NSS),Yes,Yes,Yes,Mar-02-2020,RMF,IATT
+25,Backend Development,Active,Redhold,RD,"Developers, Engineers","Gutmann, Jaskolski and Herzog",763,IT(Not NSS),Yes,Yes,Yes,Mar-02-2021,DIACAP,ATO
+26,Batch Processing,Active,Redhold,RD,Number and connection devices,"Gutmann, Jaskolski and Herzog",10,IT(Not NSS),Yes,Yes,Yes,Mar-02-2022,ICD 505,ATO w/ Conditions
+27,Help Desk,Active,Toughjoyfax,TX,Laptops servers instance,Raynor LLC,11,IT(Not NSS),Yes,Yes,Yes,Mar-02-2023,RMF,IATT
+28,Technology Service,Active,Toughjoyfax,TX,Laptops servers instance,Raynor LLC,523,IT(Not NSS),Yes,Yes,Yes,Mar-02-2024,RMF,ATO
+29,Hardware Installation,Active,Asoka,AA,Data center Laptops servers instance,,12,IT(Not NSS),Yes,Yes,Yes,Mar-02-2025,RMF,ATO w/ Conditions
+30,Data Center maintenance,Active,Span,SN,data center ,McDermott-Cremin,900,IT(Not NSS),Yes,Yes,Yes,Mar-02-2026,RMF,IATT
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
