@@ -1,0 +1,31 @@
+DCES ID,Service Name,Status,System Name,System Acronym,Component,Sub-System,Total users,Type of IT/NSS,Has system completed a Tech Refresh?,Tech Refresh completion date,Is a Tech Refresh planned or In progress?,Authorization Policy,Authorization Status
+1,IT Infrastructure,Active,Hatity,HY,Laptops servers instance,Conn Dietrich and Bosco,63,IT(Not NSS),Yes,Mar-02-1997,Yes,DIACAP,ATO
+2,Database Adminstration,Active,Cardguard,CD,DataBase SQL MSSQL,Watsica-Corwin,50,IT(Not NSS),Yes,Mar-02-1998,Yes,ICD 503,ATO w/ Conditions
+3,Zoom,Active,Toughjoyfax,TX,Meeting ,Raynor LLC,1024,IT(Not NSS),Yes,Mar-02-1999,Yes,RMF,IATT
+4,Analytics,Active,Asoka,AA,Analysis,Spencer Weissnat and Quigley,133,IT(Not NSS),Yes,Mar-02-2000,Yes,DIACAP,ATO
+5,Computer Vision,Active,Biodex,BX,Network device drivers,Frami and Sons,69,IT(Not NSS),Yes,Mar-02-2001,Yes,ICD 504,ATO w/ Conditions
+6,Data processing,Active,Redhold,RD,data center ,"Gutmann, Jaskolski and Herzog",2380,IT(Not NSS),Yes,Mar-02-2002,Yes,RMF,IATT
+7,ETL,Active,Lotstring,LG,Laptops servers instance,Ohara Crona and Spencer,9,IT(Not NSS),Yes,Mar-02-2003,Yes,DIACAP,ATO
+8,Logistics,Inactive,Span,SN,Network device drivers,McDermott-Cremin,446,IT(Not NSS),Yes,Mar-02-2004,Yes,ICD 505,ATO w/ Conditions
+9,Help Desk,Active,Keylex,KX,data center ,King Mitchell and Douglas,92,IT(Not NSS),Yes,Mar-02-2005,Yes,RMF,IATT
+2,Patch Management,Active,Cardguard,CD,Laptops servers instance,Watsica-Corwin,22,IT(Not NSS),Yes,Mar-02-2006,Yes,DIACAP,ATO
+1,Batch Processing,Active,Hatity,HY,Laptops servers instance,Conn Dietrich and Bosco,,IT(Not NSS),Yes,Mar-02-2007,Yes,ICD 503,ATO w/ Conditions
+2,Satellite Service,Active,Cardguard,CD,Satellite Service,Watsica-Corwin,444,IT(Not NSS),Yes,Mar-02-2008,Yes,RMF,IATT
+1,Security Audit,Active,Hatity,HY,ATO scan,Conn Dietrich and Bosco,637,IT(Not NSS),Yes,Mar-02-2009,Yes,DIACAP,ATO
+2,Backend Development,Active,Cardguard,CD,Express NodeJS,Watsica-Corwin,100,IT(Not NSS),Yes,Mar-02-2010,Yes,ICD 504,ATO w/ Conditions
+1,Network Security ,Active,Hatity,HY,"VPN Network, device drivers","Conn, Dietrich and Bosco",542,IT(Not NSS),Yes,Mar-02-2011,Yes,RMF,IATT
+5,Communication,Active,Biodex,BX,Phone,Frami and Sons,892,IT(Not NSS),Yes,Mar-02-2012,Yes,DIACAP,ATO
+8,Help Desk,Active,Span,SN,Number and connection devices,McDermott-Cremin,1000,IT(Not NSS),Yes,Mar-02-2013,Yes,ICD 505,ATO w/ Conditions
+5,Computer Vision,Active,Biodex,BX,Cameras algorithms,Frami and Sons,400,IT(Not NSS),Yes,Mar-02-2014,Yes,RMF,IATT
+9,Data processing,Active,Keylex,KX,Data warehouse,Frami and Sons,865,IT(Not NSS),Yes,Mar-02-2015,Yes,DIACAP,ATO
+4,ETL,Active,Asoka,AA,Data warehouse,Spencer Weissnat and Quigley,421,IT(Not NSS),Yes,Mar-02-2016,Yes,ICD 503,ATO w/ Conditions
+9,Logistics,Active,Keylex,KX,Vehicle and records,King Mitchell and Douglas,321,IT(Not NSS),Yes,Mar-02-2017,Yes,RMF,IATT
+4,Help Desk,Active,Asoka,AA,Laptops servers instance,Spencer Weissnat and Quigley,123,IT(Not NSS),Yes,Mar-02-2018,Yes,DIACAP,ATO
+5,Patch Management,Active,Biodex,BX,Laptops servers instance,Frami and Sons,731,IT(Not NSS),Yes,Mar-02-2019,Yes,ICD 504,ATO w/ Conditions
+4,Network Engineering,Active,Asoka,AA,Network device drivers,Spencer Weissnat and Quigley,913,IT(Not NSS),Yes,Mar-02-2020,Yes,RMF,IATT
+6,Backend Development,Active,Redhold,RD,"Developers, Engineers","Gutmann, Jaskolski and Herzog",763,IT(Not NSS),Yes,Mar-02-2021,Yes,DIACAP,ATO
+6,Batch Processing,Active,Redhold,RD,Number and connection devices,"Gutmann, Jaskolski and Herzog",10,IT(Not NSS),Yes,Mar-02-2022,Yes,ICD 505,ATO w/ Conditions
+3,Help Desk,Active,Toughjoyfax,TX,Laptops servers instance,Raynor LLC,11,IT(Not NSS),Yes,Mar-02-2023,Yes,RMF,IATT
+3,Technology Service,Active,Toughjoyfax,TX,Laptops servers instance,Raynor LLC,523,IT(Not NSS),Yes,Mar-02-2024,Yes,RMF,ATO
+4,Hardware Installation,Active,Asoka,AA,Data center Laptops servers instance,,12,IT(Not NSS),Yes,Mar-02-2025,Yes,RMF,ATO w/ Conditions
+8,Data Center maintenance,Active,Span,SN,data center ,McDermott-Cremin,900,IT(Not NSS),Yes,Mar-02-2026,Yes,RMF,IATT
